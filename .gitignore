@@ -1,0 +1,9 @@
+# Eclipse and Maven stuff
+/bin/
+/target/
+.classpath
+.project
+.settings/
+
+# Folder used to store generated video files
+/processing/
