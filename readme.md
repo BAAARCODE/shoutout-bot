@@ -1,3 +1,5 @@
+### *NOTE: I have removed all potentially copyright-infringing content from this repository. This bot will thus no longer be distributed on GitHub with all the files it needs to function.*
+
 # Shoutout Bot
 A JDA Discord bot that allows users to type "Let's give a quick shoutout to @User" and get a video resembling the Christina Applegate shoutout from the Eric Andre Show, Season 3, Episode 2.
 
